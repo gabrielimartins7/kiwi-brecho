@@ -1,0 +1,140 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="kiwibrecho.com" resolutions="1x,2x" timestamp="1591814634060">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mestre.css" crc="4127364922" ref="sapatos:entrar:sobre-nós:favoritos:camisas:calças:notificações:carrinho:fale-conosco"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="3824530138" ref="sapatos:entrar:sobre-nós:favoritos:camisas:calças:notificações:carrinho:fale-conosco"/>
+    <file name="sapatos.css" crc="97579825" ref="sapatos"/>
+    <file name="nomq_sapatos.css" crc="297003952" ref="sapatos"/>
+    <file name="entrar.css" crc="97579825" ref="entrar"/>
+    <file name="nomq_entrar.css" crc="297003952" ref="entrar"/>
+    <file name="sobre-n_s.css" crc="97579825" ref="sobre-nós"/>
+    <file name="nomq_sobre-n_s.css" crc="297003952" ref="sobre-nós"/>
+    <file name="favoritos.css" crc="97579825" ref="favoritos"/>
+    <file name="nomq_favoritos.css" crc="297003952" ref="favoritos"/>
+    <file name="camisas.css" crc="97579825" ref="camisas"/>
+    <file name="nomq_camisas.css" crc="297003952" ref="camisas"/>
+    <file name="index.css" crc="4119921047" ref="index"/>
+    <file name="nomq_index.css" crc="29501724" ref="index"/>
+    <file name="cal_as.css" crc="97579825" ref="calças"/>
+    <file name="nomq_cal_as.css" crc="297003952" ref="calças"/>
+    <file name="notifica__es.css" crc="97579825" ref="notificações"/>
+    <file name="nomq_notifica__es.css" crc="297003952" ref="notificações"/>
+    <file name="carrinho.css" crc="97579825" ref="carrinho"/>
+    <file name="nomq_carrinho.css" crc="297003952" ref="carrinho"/>
+    <file name="fale-conosco.css" crc="97579825" ref="fale-conosco"/>
+    <file name="nomq_fale-conosco.css" crc="297003952" ref="fale-conosco"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="museutils.js" crc="163421577" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="whatinput.js" crc="86476730" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="museconfig.js" crc="168988563" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="require.js" crc="244322403" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+  </folder>
+  <folder name="images">
+    <file name="banners_1.png" crc="3967641066" seo="true" ref="index"/>
+    <file name="buscar12x13.png" crc="4038988319" seo="true" ref="index"/>
+    <file name="buscar12x13_2x.png" crc="453864705" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u1941-4-a.png" crc="223950730" ref="index"/>
+    <file name="u1941-4-a_2x.png" crc="3855992968" ref="index"/>
+    <file name="u1947-4.png" crc="448633165" ref="index"/>
+    <file name="u1947-4_2x.png" crc="3978219047" ref="index"/>
+    <file name="u1954-4.png" crc="289381152" ref="index"/>
+    <file name="u1954-4_2x.png" crc="250529029" ref="index"/>
+    <file name="u1923-4.png" crc="4132815085" ref="index"/>
+    <file name="u1923-4_2x.png" crc="3824501488" ref="index"/>
+    <file name="u1918-4.png" crc="35041511" ref="index"/>
+    <file name="u1918-4_2x.png" crc="3795881064" ref="index"/>
+    <file name="u1930-4.png" crc="3901868970" ref="index"/>
+    <file name="u1930-4_2x.png" crc="4131966392" ref="index"/>
+    <file name="person19x26.png" crc="3774656808" seo="true" ref="index"/>
+    <file name="person19x26_2x.png" crc="470448920" seo="true" ref="index"/>
+    <file name="notificação branco24x27.png" crc="4179969429" seo="true" ref="index"/>
+    <file name="notificação branco24x27_2x.png" crc="3815061001" seo="true" ref="index"/>
+    <file name="favoritos branco30x27.png" crc="54770013" seo="true" ref="index"/>
+    <file name="favoritos branco30x27_2x.png" crc="3837720812" seo="true" ref="index"/>
+    <file name="carrinho branco29x26.png" crc="55691994" seo="true" ref="index"/>
+    <file name="carrinho branco29x26_2x.png" crc="4129624027" seo="true" ref="index"/>
+    <file name="u1941-4-a2.png" crc="66499485" ref="index"/>
+    <file name="u1941-4-a_2x2.png" crc="4026071429" ref="index"/>
+    <file name="u1947-42.png" crc="4132088991" ref="index"/>
+    <file name="u1947-4_2x2.png" crc="4254441432" ref="index"/>
+    <file name="u1954-42.png" crc="3885897519" ref="index"/>
+    <file name="u1954-4_2x2.png" crc="3979859685" ref="index"/>
+    <file name="u1923-42.png" crc="4152650303" ref="index"/>
+    <file name="u1923-4_2x2.png" crc="3855830324" ref="index"/>
+    <file name="u1918-42.png" crc="467864805" ref="index"/>
+    <file name="u1918-4_2x2.png" crc="3912436685" ref="index"/>
+    <file name="u1930-42.png" crc="316566262" ref="index"/>
+    <file name="u1930-4_2x2.png" crc="214085219" ref="index"/>
+    <file name="buscar12x12.png" crc="4038988319" seo="true" ref="carrinho"/>
+    <file name="buscar12x12_2x.png" crc="453864705" seo="true" ref="carrinho"/>
+    <file name="u470-4.png" crc="3984896818" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u470-4_2x.png" crc="4045315890" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u930-4.png" crc="199077126" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u930-4_2x.png" crc="4232286506" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u950-4.png" crc="3965883540" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u950-4_2x.png" crc="93986704" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u971-4.png" crc="338614760" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u971-4_2x.png" crc="4194637353" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u991-4.png" crc="441593661" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u991-4_2x.png" crc="4086726355" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u1013-4.png" crc="43121501" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="u1013-4_2x.png" crc="22445300" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="carrinho branco29x25.png" crc="55691994" seo="true" ref="carrinho"/>
+    <file name="carrinho branco29x25_2x.png" crc="4129624027" seo="true" ref="carrinho"/>
+    <file name="buscar11x11.png" crc="489494320" seo="true" ref="carrinho"/>
+    <file name="buscar11x11_2x.png" crc="154182034" seo="true" ref="carrinho"/>
+    <file name="person.png" crc="3764695221" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="person_2x.png" crc="470448920" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="notificação branco.png" crc="32987125" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="notificação branco_2x.png" crc="3815061001" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="favoritos branco.png" crc="408314006" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="favoritos branco_2x.png" crc="3837720812" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="carrinho branco.png" crc="3989827026" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="carrinho branco_2x.png" crc="4129624027" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="buscar8x8.png" crc="411212617" seo="true" ref="carrinho"/>
+    <file name="buscar8x8_2x.png" crc="3838410357" seo="true" ref="carrinho"/>
+    <file name="person18x24.png" crc="3782293452" seo="true" ref="carrinho"/>
+    <file name="person18x24_2x.png" crc="470448920" seo="true" ref="carrinho"/>
+    <file name="notificação branco23x25.png" crc="4246532235" seo="true" ref="carrinho"/>
+    <file name="notificação branco23x25_2x.png" crc="3815061001" seo="true" ref="carrinho"/>
+    <file name="favoritos branco28x25.png" crc="3984156300" seo="true" ref="carrinho"/>
+    <file name="favoritos branco28x25_2x.png" crc="3837720812" seo="true" ref="carrinho"/>
+    <file name="carrinho branco27x24.png" crc="249314718" seo="true" ref="carrinho"/>
+    <file name="carrinho branco27x24_2x.png" crc="4129624027" seo="true" ref="carrinho"/>
+    <file name="buscar.png" crc="12562963" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="buscar_2x.png" crc="532256159" seo="true" ref="carrinho:favoritos:notificações:entrar:camisas:calças:sapatos:sobre-nós:fale-conosco"/>
+    <file name="person13x17.png" crc="442245925" seo="true" ref="carrinho"/>
+    <file name="person13x17_2x.png" crc="96918611" seo="true" ref="carrinho"/>
+    <file name="notificação branco16x18.png" crc="192166482" seo="true" ref="carrinho"/>
+    <file name="notificação branco16x18_2x.png" crc="269034910" seo="true" ref="carrinho"/>
+    <file name="favoritos branco20x18.png" crc="483345046" seo="true" ref="carrinho"/>
+    <file name="favoritos branco20x18_2x.png" crc="295618817" seo="true" ref="carrinho"/>
+    <file name="carrinho branco19x17.png" crc="4260608589" seo="true" ref="carrinho"/>
+    <file name="carrinho branco19x17_2x.png" crc="270766115" seo="true" ref="carrinho"/>
+    <file name="person12x16.png" crc="145263873" seo="true" ref="carrinho"/>
+    <file name="person12x16_2x.png" crc="93303297" seo="true" ref="carrinho"/>
+    <file name="notificação branco15x17.png" crc="246154498" seo="true" ref="carrinho"/>
+    <file name="notificação branco15x17_2x.png" crc="444050328" seo="true" ref="carrinho"/>
+    <file name="favoritos branco19x17.png" crc="269881535" seo="true" ref="carrinho"/>
+    <file name="favoritos branco19x17_2x.png" crc="385952730" seo="true" ref="carrinho"/>
+    <file name="carrinho branco18x16.png" crc="4091258802" seo="true" ref="carrinho"/>
+    <file name="carrinho branco18x16_2x.png" crc="4028972129" seo="true" ref="carrinho"/>
+  </folder>
+  <file name="index.html" crc="3997937493" seo="true" mt="1591814584041" redirect="true"/>
+  <file name="carrinho.html" crc="4191285059" seo="true" mt="1591043380862" redirect="true"/>
+  <file name="favoritos.html" crc="155853409" seo="true" mt="1591043380862" redirect="true"/>
+  <file name="notificações.html" crc="4181475014" seo="true" mt="1591043380862" redirect="true"/>
+  <file name="entrar.html" crc="277570410" seo="true" mt="1591043380862" redirect="true"/>
+  <file name="camisas.html" crc="3994087671" seo="true" mt="1591043380862" redirect="true"/>
+  <file name="calças.html" crc="3828342382" seo="true" mt="1591043380862" redirect="true"/>
+  <file name="sapatos.html" crc="4019365242" seo="true" mt="1591043380862" redirect="true"/>
+  <file name="sobre-nós.html" crc="4250225419" seo="true" mt="1591043380862" redirect="true"/>
+  <file name="fale-conosco.html" crc="3948372091" seo="true" mt="1591043380862" redirect="true"/>
+</manifest>
