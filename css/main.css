@@ -1,8 +1,12 @@
 html body{
     background: #f4f4f5;
+    margin: 0px;
 }
 body{
     margin: 0px;
+}
+h2{
+
 }
 #menu1{
     background-color:#C3D21F;
@@ -19,7 +23,7 @@ a{
     width:300px;
   }
   
-  #txtpesquisar{
+#txtpesquisar{
     float:left;
     background-color:transparent;
     padding-left:5px;
@@ -42,10 +46,9 @@ ul li{
 }
 
 a:hover{
-    text-shadow:0px 0px 5px #fff;
-}
-.carousel-slide{
-    margin-top: -10px;
+    color: #f0ce9b;
+    background: none;
+    
 }
 .container-login{
     width: 100vw;
@@ -66,14 +69,40 @@ a:hover{
     position: absolute;
     margin: 25px;
     margin-top: 60px;
+    align-items: center;
+    padding: 20px;
     width: 590px;
-    height: 255px;
+    height: 350px;
+    background: white;
+    border-radius: 8px;
+    -webkit-box-shadow: 6px 6px 10px #999; 
+	-moz-box-shadow: 6px 6px 10px #999;
+	box-shadow: 6px 6px 10px #999;
+}
+.btn{
+    margin-top: 10px;
+    background-color: #F79157;
+}
+.btn:hover{
+    background-color: #E9702C;
+}
+.container-cadastroLogin{
+    width: 100vw;
+    height: 60vh;
+    display: flex;
 }
 .box-cadastroLogin{
     position: relative;
-    left: 650px;
+    left: 660px;
     margin: 20px;
     margin-top: 60px;
+    align-items: center;
+    padding: 20px;
     width: 590px;
-    height: 553px;
+    height: 510px;
+    background: white;
+    border-radius: 8px;
+    -webkit-box-shadow: 6px 6px 10px #999; 
+	-moz-box-shadow: 6px 6px 10px #999;
+	box-shadow: 6px 6px 10px #999
 }
