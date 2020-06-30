@@ -1,5 +1,6 @@
 html body{
-    background: #f4f4f5;
+    background: hsl(240, 5%, 96%);
+    font-family: 'Roboto', sans-serif;
 }
 body{
     margin: 0px;
@@ -63,6 +64,7 @@ a:hover{
 }
 .box-loginCadastro{
     position: absolute;
+    left: 25px;
     margin: 25px;
     margin-top: 60px;
     align-items: center;
@@ -87,13 +89,13 @@ a:hover{
     transition: 2s;
 }
 .container-cadastroLogin{
-    width: 100vw;
-    height: 60vh;
+    width: 90vw;
+    height: 70vh;
     display: flex;
 }
 .box-cadastroLogin{
     position: relative;
-    left: 660px;
+    left: 700px;
     margin: 20px;
     margin-top: 60px;
     align-items: center;
@@ -105,4 +107,7 @@ a:hover{
     -webkit-box-shadow: 6px 6px 10px #999; 
 	-moz-box-shadow: 6px 6px 10px #999;
 	box-shadow: 6px 6px 10px #999
+}
+.card-deck{
+    margin-top: 50px;
 }
